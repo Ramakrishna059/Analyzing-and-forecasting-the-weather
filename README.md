@@ -1,3 +1,5 @@
+Analyzing and forecasting the weather
+
 Overview:
 WeatherWise is a client-side web application designed to provide users with current weather conditions and a multi-day forecast for a specified location. Built entirely with HTML, CSS, and JavaScript, this project leverages a public weather API to fetch and display real-time weather data in an intuitive and visually appealing manner.
 
